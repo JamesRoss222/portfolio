@@ -1,4 +1,4 @@
-# Roshan Kr Soni (Developer Portfolio)
+# James Ross (Developer Portfolio)
 
 
 **PWA updated** to the *portfolio* and **loading speed** optimized 
@@ -19,7 +19,7 @@ If you need any help, ping me !`
 ________________________________________________________________________________________
 
 Cheers, <br>
-Roshan Kr Soni<br>
+James Ross<br>
 mailto: Roshankrsoni1@gmail.com
 ________________________________________________________________________________________
 
