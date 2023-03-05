@@ -6,7 +6,7 @@
 **Technologies used** : HTML5, CSS3, JS, ES6
 
 Updated Portfolio can be seen here 
-  [link to Portfolio](https://roshankrsoni.github.io)
+  [link to Portfolio](https://JamesRoss222.github.io)
 <br />
 ## Pagespeed Score
 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 Cheers, <br>
 James Ross<br>
-mailto: Roshankrsoni1@gmail.com
+mailto: JamesRoss9522@gmail.com
 ________________________________________________________________________________________
 
 I sincerely admit ! Not everything thing you saw on the website was developed by me from
@@ -31,5 +31,5 @@ or reproduced from the open source public code.
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [@RoshanKrSoni](https://github.com/Roshankrsoni) | **Owner**
-:nerd_face: [@AdityaKrSoni](https://github.com/roshankr-asort)  | **Contributor**
+:sunglasses: [@RoshanKrSoni](https://github.com/JamesRoss222) | **Owner**
+:nerd_face: [@AdityaKrSoni](https://github.com/JamesRoss222)  | **Contributor**
