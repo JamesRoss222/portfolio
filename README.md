@@ -31,5 +31,5 @@ or reproduced from the open source public code.
 
 Name  | Roles
 ------------ | -------------
-:sunglasses: [@RoshanKrSoni](https://github.com/JamesRoss222) | **Owner**
-:nerd_face: [@AdityaKrSoni](https://github.com/JamesRoss222)  | **Contributor**
+:sunglasses: [@JamesRoss](https://github.com/JamesRoss222) | **Owner**
+:nerd_face: [@JamesRoss](https://github.com/JamesRoss222)  | **Contributor**
